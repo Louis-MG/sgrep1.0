@@ -7,3 +7,5 @@ than traditional Unix grep, but with significant restrictions.
 
 On my equipment, sgrep searches 13GB of sorted text with over 500 million lines in just a few 1/1000ths of a second.
 
+Only the documentation page is left at: https://sgrep.sourceforge.net/
+
