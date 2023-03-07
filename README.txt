@@ -13,3 +13,4 @@ On my equipment, sgrep searches 13GB of sorted text with over 500 million lines 
 
 Only the documentation page is left at: https://sgrep.sourceforge.net/
 
+Building sgrep is very simple. Just run "make" in the project directory and the executable will be in the same directory.
